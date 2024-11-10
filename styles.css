@@ -1,0 +1,33 @@
+/* 設置整體的頁面背景色和字體 */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* 設置每個 section 的間距 */
+section {
+    padding: 60px 0;
+}
+
+/* 調整 "顯示更多" 按鈕的樣式 */
+#infoButton {
+    margin-top: 20px;
+}
+
+/* 設置聯絡我區域的樣式 */
+#contact {
+    background-color: #f1f1f1;
+}
+
+/* 設置頁腳的樣式 */
+footer {
+    background-color: #212529;
+    color: #ffffff;
+}
+
+/* 使頁尾固定在頁面底部 */
+.fixed-bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
